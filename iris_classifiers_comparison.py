@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Comparison of different classifier performance on the Iris dataset.
 Includes: Decision Tree, Stacking, Bagging (Random Forest), Boosting (Gradient Boosting)
