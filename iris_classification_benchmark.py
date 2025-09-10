@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 A comprehensive benchmarking script for comparing classification models on the Iris dataset.
 Compares performance of Logistic Regression, K-Nearest Neighbors, and Support Vector Machines.
