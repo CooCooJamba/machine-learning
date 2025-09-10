@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Feature Analysis and Selection for Near-Earth Objects Classification
 
