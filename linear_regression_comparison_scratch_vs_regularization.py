@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Install required packages
 get_ipython().system('pip install kaggle plotly')
 
